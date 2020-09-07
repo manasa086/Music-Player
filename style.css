@@ -1,0 +1,417 @@
+@media only screen and (min-width: 601px) {
+    a {
+        text-decoration: none;
+        color: black;
+        display: block;
+    }
+    .childstarforMusic {
+        position: relative;
+        top: -24px;
+        left: 120px;
+    }
+    a:hover {
+        text-decoration: none;
+        color: black;
+        display: block;
+    }
+    p {
+        position: relative;
+        left: 450px;
+        top: -510px;
+    }
+    .forPadding {
+        padding: 20px;
+    }
+    .card {
+        background-color: white;
+    }
+    .child {
+        position: relative;
+        top: -200px;
+        left: 200px;
+    }
+    .heading {
+        position: relative;
+        left: 330px;
+        top: -150px;
+    }
+    .child1 {
+        position: relative;
+        top: 110px;
+        left: 80px;
+    }
+    .child2 {
+        position: relative;
+        top: -510px;
+        left: 420px;
+    }
+    .child4 {
+        position: relative;
+        top: 0px;
+    }
+    .forBackground {
+        background-color: lightgrey;
+    }
+    .childforsearch {
+        position: relative;
+        top: -100px;
+    }
+    .child3 {
+        position: relative;
+        top: 110px;
+        left: 20px;
+    }
+    #playlist {
+        display: block;
+    }
+    .close1 {
+        position: relative;
+        left: 420px;
+        top: -10px;
+        font-weight: 700;
+        font-size: 30px;
+    }
+    .p {
+        padding: 20px;
+    }
+    #songtoplaylist {
+        display: inline;
+    }
+    .forTop {
+        padding: 20px;
+    }
+    .fa {
+        position: relative;
+        left: -22px;
+    }
+    /* .vl {
+    border-left: 3px solid black;
+    height: 500px;
+    position: relative;
+    left: 197px;
+    top: -150px;
+} */
+    .left {
+        width: 200px;
+        border: 2px solid black;
+        height: 500px;
+    }
+    #playlist {
+        position: relative;
+        left: 120px;
+    }
+    /* .top {
+    position: relative;
+    top: -100px;
+    left: 900px;
+} */
+    #search {
+        border: 2px solid black;
+        width: 200px;
+    }
+    .img {
+        width: 200px;
+        height: 200px;
+    }
+    body {
+        font-family: 'Courgette', cursive;
+        background-color: lightblue;
+    }
+    h2 {
+        position: relative;
+        left: 600px;
+    }
+    hr {
+        height: 1px;
+        background-color: black;
+        border: none;
+    }
+    .ratingspace {
+        padding-left: 15px;
+    }
+    .playListDiv {
+        position: relative;
+        top: 200px;
+    }
+    /* .list-group {
+    margin-bottom: 10px;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+} */
+    .checked {
+        color: orange;
+    }
+    #card {
+        position: absolute;
+        top: 50px;
+        left: 400px;
+        width: 30rem;
+    }
+    .play1 {
+        border: 2px solid black;
+        padding-top: 20px;
+        display: inline-block;
+        background-color: lightgrey;
+    }
+    .play2 {
+        border: 2px solid black;
+        position: relative;
+        top: 0px;
+        left: 100px;
+        display: inline-block;
+        background-color: lightgrey;
+    }
+    .box1 {
+        flex-basis: 25%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+    }
+    /* .container-2 {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    position: relative;
+    left: 50px;
+    top: 10px;
+} */
+    .playlist {
+        position: relative;
+        top: 25px;
+        left: -250px;
+    }
+    .playSong {
+        position: relative;
+        left: -700px;
+    }
+    .forColor {
+        background-attachment: lightblue;
+    }
+    .audio {
+        width: 400px!important;
+        text-decoration: none!important;
+    }
+    .audio:hover {
+        border: none;
+    }
+    .childstar1 {
+        position: relative;
+        top: -24px;
+        left: 120px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .childstar1 {
+        position: relative;
+        top: -24px;
+        left: 120px;
+    }
+    .childstarforMusic {
+        position: relative;
+        top: -24px;
+        left: 120px;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        display: block;
+    }
+    a:hover {
+        text-decoration: none;
+        color: black;
+        display: block;
+    }
+    p {
+        position: relative;
+        left: 450px;
+        top: -510px;
+    }
+    .forPadding {
+        padding: 20px;
+    }
+    .card {
+        background-color: white;
+    }
+    .child {
+        position: relative;
+        top: -200px;
+        left: 200px;
+    }
+    .heading {
+        position: relative;
+        left: 330px;
+        top: -150px;
+    }
+    .child1 {
+        position: relative;
+        top: 110px;
+        left: 80px;
+    }
+    .child2 {
+        position: relative;
+        top: -510px;
+        left: 420px;
+    }
+    .child4 {
+        position: relative;
+        top: 0px;
+    }
+    .forBackground {
+        background-color: lightgrey;
+    }
+    .childforsearch {
+        position: relative;
+        top: -100px;
+    }
+    .child3 {
+        position: relative;
+        top: 110px;
+        left: 20px;
+    }
+    #playlist {
+        display: block;
+    }
+    .close1 {
+        position: relative;
+        left: 200px;
+        top: -5px;
+        font-weight: 700;
+        font-size: 30px;
+    }
+    .p {
+        padding: 20px;
+    }
+    #songtoplaylist {
+        display: inline;
+    }
+    .forTop {
+        padding: 20px;
+    }
+    .fa {
+        position: relative;
+        left: -22px;
+    }
+    /* .vl {
+        border-left: 3px solid black;
+        height: 500px;
+        position: relative;
+        left: 197px;
+        top: -150px;
+    } */
+    .left {
+        width: 200px;
+        border: 2px solid black;
+        height: 500px;
+    }
+    #playlist {
+        position: relative;
+        left: 120px;
+    }
+    /* .top {
+        position: relative;
+        top: -100px;
+        left: 900px;
+    } */
+    #search {
+        border: 2px solid black;
+        width: 200px;
+    }
+    .img {
+        width: 200px;
+        height: 200px;
+    }
+    body {
+        font-family: 'Courgette', cursive;
+        background-color: lightblue;
+        font-size: 15px;
+    }
+    h2 {
+        position: relative;
+        left: 100px;
+    }
+    hr {
+        height: 1px;
+        background-color: black;
+        border: none;
+    }
+    .ratingspace {
+        padding-left: 15px;
+    }
+    .playListDiv {
+        position: relative;
+        top: 200px;
+    }
+    .list-group {
+        position: relative;
+        left: -300px;
+        width: 230px;
+    }
+    .checked {
+        color: orange;
+    }
+    #card {
+        position: absolute;
+        top: 50px;
+        left: 400px;
+        width: 30rem;
+    }
+    .play1 {
+        border: 2px solid black;
+        padding-top: 20px;
+        display: inline-block;
+        background-color: lightgrey;
+    }
+    .play2 {
+        border: 2px solid black;
+        position: relative;
+        top: 0px;
+        left: 100px;
+        display: inline-block;
+        background-color: lightgrey;
+    }
+    .box1 {
+        flex-basis: 25%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+    }
+    /* .container-2 {
+        display: flex;
+        justify-content: space-between;
+        width: 95%;
+        position: relative;
+        left: 50px;
+        top: 10px;
+    } */
+    .playlist {
+        position: relative;
+        top: 25px;
+        left: -250px;
+    }
+    .playSong {
+        position: relative;
+        left: -700px;
+    }
+    .forColor {
+        background-attachment: lightblue;
+    }
+    .audio {
+        width: 400px!important;
+        text-decoration: none!important;
+    }
+    .audio:hover {
+        border: none;
+    }
+    #forNavBar {
+        position: relative;
+        top: -100px;
+    }
+    /* .forSongs {
+        position: relative;
+        top: -400px;
+    } */
+    .childstar {
+        position: relative;
+        top: -24px;
+        left: 120px;
+    }
+}
